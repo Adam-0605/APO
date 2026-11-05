@@ -1,0 +1,5 @@
+pyomo
+pandas
+numpy
+matplotlib # For plotting Pareto front
+gamsapi # allows Pyomo to communicate with GAMS
