@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pyomo & External Solver Temp Files
+*.lp
+*.nl
+*.sol
+*.mps
+*.ilb
+results.json
+
+# GAMS Temp Files
+*.lst
+*.gdx
+225a/
